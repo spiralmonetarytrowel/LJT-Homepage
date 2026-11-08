@@ -1,1 +1,0 @@
-Symbols test: <!-- comment --> <base_path> {@timestamp} ['a', 'b'] "quoted" & ? : *anchor

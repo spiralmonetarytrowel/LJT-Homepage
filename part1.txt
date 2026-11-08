@@ -1,0 +1,26 @@
+locale                   : "en-US"
+site_theme               : "default"
+title                    : "Junteng Liu"
+title_separator          : "-"
+name                     : &name "Junteng Liu"
+description              : &description "Junteng Liu is a first-year PhD candidate at the HKUST NLP Group. His research focuses on natural language processing and machine learning."
+url                      : https://spiralmonetarytrowel.github.io
+baseurl                  : "/LJT-Homepage"
+repository               : "spiralmonetarytrowel/LJT-Homepage"
+
+author:
+  avatar           : "profile.png"
+  name             : "Junteng Liu"
+  bio              : "First-year PhD candidate at the HKUST NLP Group. Research focuses on natural language processing and machine learning."
+  location         : "Hong Kong"
+  employer         : "Hong Kong University of Science and Technology"
+  email            : "jliugi@connect.ust.hk"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate"
+  github           : "Vicent0205"
+  twitter          : "junteng88716710"
+
+publication_category:
+  manuscripts:
+    title: 'Preprints'
+  conferences:
+    title: 'Conference Papers'
